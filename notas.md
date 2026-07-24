@@ -10,3 +10,4 @@ Archivo queusa github o repos basados en git que delimita que archivos se suben 
 # Paginas de hosting
 vercel
 netlyfy -> https://netlify.com
+render
